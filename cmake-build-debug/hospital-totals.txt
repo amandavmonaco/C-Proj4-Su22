@@ -1,0 +1,6 @@
+Totals of all patient charges: 
+--------------------------------------------------------------------------------------
+Grand sub total for all room charges:    $14229.00
+Grand sub total for all lab tests:       $3275.00
+Grand sub total for all medicine costs:  $2675.00
+Grand Total:                             $20179.00

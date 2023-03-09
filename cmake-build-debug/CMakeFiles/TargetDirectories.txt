@@ -1,0 +1,3 @@
+/Users/amandamonaco/Documents/GitHub/1342-pa04-amandavmonaco/cmake-build-debug/CMakeFiles/PA04-HospitalInvoices.dir
+/Users/amandamonaco/Documents/GitHub/1342-pa04-amandavmonaco/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amandamonaco/Documents/GitHub/1342-pa04-amandavmonaco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
